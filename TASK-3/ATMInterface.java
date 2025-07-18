@@ -26,7 +26,7 @@ class BankAccount {
     }
 }
 
-// Class to represent the ATM machine
+
 class ATM {
     private BankAccount account;
     private Scanner scanner;
