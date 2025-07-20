@@ -8,6 +8,7 @@ public class CurrencyConverter {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("=== Currency Converter ===");
+        
 
         System.out.print("Enter base currency (e.g., USD, INR, EUR): ");
         String fromCurrency = sc.nextLine().trim().toUpperCase();
